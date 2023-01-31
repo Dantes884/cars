@@ -1,6 +1,8 @@
-from aiogram import types
-from addons.db import get_data
 from time import sleep
+
+from aiogram import types
+
+from addons.db import get_data
 
 
 async def show_cars(message: types.Message):

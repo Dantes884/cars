@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as BS
+
 from addons.db import make_full_table
 
 
